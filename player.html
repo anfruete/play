@@ -1,0 +1,20 @@
+<!DOCTYPE html><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="referrer" content="no-referrer" />
+<link href="https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/plyr/3.6.2/plyr.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/plyr/3.6.2/plyr.polyfilled.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/hls.js/0.14.13/hls.min.js" crossorigin="anonymous"></script>
+<script src="env.js"></script>
+<script src="player.min.js"></script>
+<style>
+    body{font-family: 'Lexend deca',sans-serif;background-color:black;}.plyr__video-wrapper{ background:black !important;} #videocontainer{height:100vh;width:100vw;display:none;} #notif{ display:none; position:fixed; top:60px; width:300px; left:50%; margin-left:-150px; padding:5px; text-align:center; font-size:large; z-index:11; color:white; background-color:rgb(45, 45, 45); border:1px solid #ffffff42;}.plyr__control--overlaid{border-radius:5px;}.plyr{height:100% !important;}input[type="range"]{min-width: 0;}
+</style>
+</head>
+<body style="margin: 0px">
+    <div id="videocontainer">
+        <video id="player1" playsinline controls></video>
+    </div>
+    <div id="notif">Notif</div>
+</body>
