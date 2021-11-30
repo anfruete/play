@@ -1,1 +1,1 @@
-var replacement = 'omega.kawaiifucdn.xyz/anime';
+var replacement = 'phoenix.alphacdn.xyz/anime';
