@@ -1,1 +1,1 @@
-var replacement = 'omega.kawaiifucdn.xyz/anime';
+var replacement = 'bestwea5.stream/anime3';
