@@ -1,1 +1,1 @@
-var replacement = 's2.primuscdn.xyz/anime2'; //
+var replacement = 's2.requisitor.xyz/anime2'; //
